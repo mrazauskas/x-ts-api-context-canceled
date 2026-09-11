@@ -1,0 +1,13 @@
+{
+  "name": "x-ts-api-context-canceled",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "typescript": "^7.1.0-dev.20260910.1"
+  }
+}
